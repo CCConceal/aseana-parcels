@@ -1,0 +1,8 @@
+# VS/Xcode/IDE 文件
+.vs/
+*.suo
+# 编译输出
+bin/
+obj/
+# Mac 文件
+.DS_Store
